@@ -23,3 +23,9 @@ Aluláteresztő szűrő kapcsolása:
 20000 |	0,213 |
 30000 |	0,162 |
 40000 |	0,162 |
+
+<img width="1468" height="752" alt="image" src="https://github.com/user-attachments/assets/1d25f06b-b96d-43d0-a102-c2a25e5434b3" />
+
+A határ frekvencia 884Hz.
+
+$ fh = 1/(2π*R*C)
