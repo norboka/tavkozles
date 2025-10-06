@@ -28,4 +28,4 @@ Aluláteresztő szűrő kapcsolása:
 
 A határ frekvencia 884Hz.
 
-$ fh = 1/(2π*R*C)
+$ fh = 1/(2π*R*C) $
