@@ -21,3 +21,19 @@
 
 # ADÓTORONY - VÉTELI HELY távolság
 <img width="618" height="637" alt="táv" src="https://github.com/user-attachments/assets/160fe8ec-3ce6-4501-b70e-83c113857188" />
+
+# 3. Mérési paraméterek
+**Paraméter	Érték**    
+**Adó frekvencia	666 MHz**    
+**Sávszélesség	8MHz**    
+**Moduláció típusa	64-QAM, 8K, 1/4**    
+**Jelerősség (RSSI)	63.8 dBu**   
+**MER	29.0 dB**   
+**Noise Margin	12.0**   
+**Hiba nélkül vett adás időtartama	200 sec**   
+**A Miskolci TV adótorony által sugárzott frekvenciák**   
+**A CH45 -ös csatornán mért spektrum**   
+**A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**   
+**A CH45 -ös csatorna konstellációs diagramja**    
+**A CH45 -ös csatornán a DUNATV HD jelszint és TV adás**    
+**A CH45 -ös csatornán a DUNATV HD műsora**   
