@@ -14,10 +14,10 @@
 **A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digitális műsorszórás során. A mérési pont a V3 LABOR, ahol a DVB-T adások vételének minőségét értékeljük.**
 
 # 2. Mérési helyszín és környezet
-**Koordináták:48°06'19.3"N 20°46'48.4"E**
-**Antenna típusa: SMART HD 550 szobaantenna**
-**Antenna magassága: 1.7 m**
-**Környezet jellemzői: V3 labor, városi körülmények között**
-**Adó távolsága: 755,03 m**
+**Koordináták:48°06'19.3"N 20°46'48.4"E**    
+**Antenna típusa: SMART HD 550 szobaantenna**    
+**Antenna magassága: 1.7 m**   
+**Környezet jellemzői: V3 labor, városi körülmények között**  
+**Adó távolsága: 755,03 m**   
 
 
