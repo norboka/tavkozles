@@ -19,4 +19,5 @@
 **Környezet jellemzői: V3 labor, városi körülmények között**  
 **Adó távolsága: 755,03 m**   
 
-
+# ADÓTORONY - VÉTELI HELY távolság
+<img width="618" height="637" alt="táv" src="https://github.com/user-attachments/assets/160fe8ec-3ce6-4501-b70e-83c113857188" />
