@@ -38,7 +38,10 @@
 **A CH41 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**   
 **A CH41 -ös csatorna konstellációs diagramja**    
 **A CH41 -ös csatornán a DUNATV HD jelszint és TV adás**    
+[its_snapshot_0011.bmp](https://github.com/user-attachments/files/22797123/its_snapshot_0011.bmp)
+
 **A CH41 -ös csatornán a DUNATV HD műsora**   
+[its_snapshot_0012.bmp](https://github.com/user-attachments/files/22797117/its_snapshot_0012.bmp)
 
 # 4. Mérési eredmények
 **Jelerősség: A mért jelerősség 33 dBu. Ez az érték stabil volt 200 másodperces időtartam alatt, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.**
