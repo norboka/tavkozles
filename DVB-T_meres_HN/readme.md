@@ -23,9 +23,9 @@
 <img width="618" height="637" alt="táv" src="https://github.com/user-attachments/assets/160fe8ec-3ce6-4501-b70e-83c113857188" />
 
 # 3. Mérési paraméterek
-**Paraméter	Érték**    
-**Adó frekvencia	666 MHz**    
-**Sávszélesség	8MHz**    
+**Paraméter      	   Érték**    
+**Adó frekvencia	   666 MHz**    
+**Sávszélesség	      8MHz**    
 **Moduláció típusa	64-QAM, 8K, 1/4**    
 **Jelerősség (RSSI)	63.8 dBu**   
 **MER	29.0 dB**   
