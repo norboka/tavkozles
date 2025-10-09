@@ -6,7 +6,7 @@
 **Mérés helye: Miskolci SZC Kandó Kálmán Informatikai Technikum**    
 **Mérés időpontja: 2024.10.03.**     
 **Mérő műszerek: METEK HD - SV:1.17.2002 - SN: 2109010000052**     
-**Felelős személy: Sándor Péter**     
+**Felelős személy: Holczer Norbert**     
 **Cél: A DVB-T jel minőségi paramétereinek mérése.**     
 
 # 1. Bevezetés
@@ -24,26 +24,28 @@
 
 # 3. Mérési paraméterek
 **Paraméter      	   Érték**    
-**Adó frekvencia	   666 MHz**    
+**Adó frekvencia	   634 MHz**    
 **Sávszélesség	      8MHz**    
-**Moduláció típusa	64-QAM, 8K, 1/4**    
-**Jelerősség (RSSI)	63.8 dBu**   
-**MER	29.0 dB**   
-**Noise Margin	12.0**   
+**Moduláció típusa	QPSK, 8K, 1/32**    
+**Jelerősség (RSSI)	33.0 dBu**   
+**MER	12.9 dB**   
+**Noise Margin	8.9**   
 **Hiba nélkül vett adás időtartama	200 sec**   
 **A Miskolci TV adótorony által sugárzott frekvenciák**   
-**A CH45 -ös csatornán mért spektrum**   
-**A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**   
-**A CH45 -ös csatorna konstellációs diagramja**    
-**A CH45 -ös csatornán a DUNATV HD jelszint és TV adás**    
-**A CH45 -ös csatornán a DUNATV HD műsora**   
+<img width="921" height="372" alt="miskolci tv" src="https://github.com/user-attachments/assets/2ee77540-e50e-4d27-b87a-54f0063ae15a" />
+
+**A CH41 -ös csatornán mért spektrum**   
+**A CH41 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**   
+**A CH41 -ös csatorna konstellációs diagramja**    
+**A CH41 -ös csatornán a DUNATV HD jelszint és TV adás**    
+**A CH41 -ös csatornán a DUNATV HD műsora**   
 
 # 4. Mérési eredmények
-**Jelerősség: A mért jelerősség 64 dBu. Ez az érték stabil volt 200 másodperces időtartam alatt, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.**
+**Jelerősség: A mért jelerősség 33 dBu. Ez az érték stabil volt 200 másodperces időtartam alatt, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.**
 
-**Modulációs paraméterek: A 64-QAM moduláció esetén a mért jel/zaj viszony (SNR) 12 dB körül váltakozott, ami megfelel a követelményeknek.**
+**Modulációs paraméterek: A QPSK moduláció esetén a mért jel/zaj viszony (SNR) 12 dB körül váltakozott, ami megfelel a követelményeknek.**
 
-**Modulation Error Ratio (MER): A mért MER érték 28.2 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.**
+**Modulation Error Ratio (MER): A mért MER érték 12.9 dB volt, amely azt mutatja, hogy a vétel probléma mentes volt.**
 
 # 5. Elemzés
 **Az eredmények alapján a mérési helyen megfelelő minőségű DVB-T vétel biztosítható. A jelerősség és SNR értékek a megadott határértékek között mozogtak. A MER alacsony, és nem okozott észlelhető minőségromlást a vételben. A moduláció stabil volt, és nem voltak nagyobb interferenciák a mérések során.**
@@ -55,3 +57,7 @@
 
 # 7. Javaslatok
 **Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetőségét, vagy további méréseket kell végezni különböző időjárási körülmények között, hogy hosszú távon is biztosított legyen a megfelelő minőségű vétel.**
+
+**Aláírás:**
+**Felelős mérő személy: Holczer Norbert**
+**Dátum: 2025.10.09**
