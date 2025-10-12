@@ -35,9 +35,14 @@
 <img width="921" height="372" alt="miskolci tv" src="https://github.com/user-attachments/assets/2ee77540-e50e-4d27-b87a-54f0063ae15a" />
 
 **A CH41 -ös csatornán mért spektrum**   
+<img width="1130" height="633" alt="1 kep DVB-T" src="https://github.com/user-attachments/assets/7b21a1bb-a12e-4b76-aef7-741fa15337fa" />
 
-**A CH41 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**   
+**A CH41 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**  
+<img width="851" height="477" alt="2 kep DVB-T" src="https://github.com/user-attachments/assets/8e36aa94-83bc-44e6-95dc-bb74366444dd" />
+
 **A CH41 -ös csatorna konstellációs diagramja**    
+<img width="851" height="477" alt="3 kep DVB-T" src="https://github.com/user-attachments/assets/dfdcdb83-bea3-4a90-a574-8f9756d77676" />
+
 **A CH41 -ös csatornán a DUNATV HD jelszint és TV adás**    
 [its_snapshot_0011.bmp](https://github.com/user-attachments/files/22797123/its_snapshot_0011.bmp)
 
