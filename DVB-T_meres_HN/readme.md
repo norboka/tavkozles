@@ -35,7 +35,6 @@
 <img width="921" height="372" alt="miskolci tv" src="https://github.com/user-attachments/assets/2ee77540-e50e-4d27-b87a-54f0063ae15a" />
 
 **A CH41 -ös csatornán mért spektrum**   
-<img width="1366" height="768" alt="Képernyőkép 2025-10-12 204258" src="https://github.com/user-attachments/assets/07862b8e-4f59-45fb-990c-7f2a84ad2768" />
 
 **A CH41 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák**   
 **A CH41 -ös csatorna konstellációs diagramja**    
