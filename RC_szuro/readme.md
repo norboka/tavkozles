@@ -24,7 +24,7 @@ Aluláteresztő szűrő kapcsolása:
 30000 |	0,162 |
 40000 |	0,162 |
 
-<img width="1468" height="752" alt="image" src="https://github.com/user-attachments/assets/1d25f06b-b96d-43d0-a102-c2a25e5434b3" />
+<img width="1916" height="921" alt="exelszurö" src="https://github.com/user-attachments/assets/18804a4a-3331-448a-9d6e-9f8d38937e3d" />
 
 A határ frekvencia 884Hz.
 
