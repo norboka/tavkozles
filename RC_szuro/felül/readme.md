@@ -22,3 +22,9 @@ Felüláteresztő szűrő kapcsolása:
 8000 |	4,95 |      
 16000 |	4,96 |      
 32000 |	5 |     
+
+<img width="1918" height="858" alt="felülszürö" src="https://github.com/user-attachments/assets/fd603268-05b7-4170-be22-2f873af7ef50" />
+
+A határ frekvencia 884Hz.
+
+$$fh = {1 \over (2π * R * C)}$
