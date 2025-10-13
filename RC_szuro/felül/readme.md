@@ -27,4 +27,4 @@ Felüláteresztő szűrő kapcsolása:
 
 A határ frekvencia 884Hz.
 
-$$fh = {1 \over (2π * R * C)}$
+$$fh = {1 \over (2π * R * C)}$$
