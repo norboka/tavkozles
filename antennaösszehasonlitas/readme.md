@@ -1,4 +1,5 @@
 # Eszközök
+## Készítette: Holczer Norbert
 - SMART HD 550 antenna     
 - ISKRA P20 LOGPER antenna       
 - p-2845f antenna
@@ -29,3 +30,6 @@
 
 - Antennák telepítése és mérések mindhárom vételi ponton: 50 perc
 - Jegyzőkönyv készítése és kiértékelés: 60 perc
+
+aláírás: Holczer Norbert
+dátum: 2025.10.15
