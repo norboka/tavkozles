@@ -13,3 +13,8 @@
 | ISKRA P20	| -38,9 |	-48,9 |	-60,2 |      
 | SMART HD 550 |	-34,8 |	-40,3 |	-58,5 |               
 | P-2845F |	-43,4	| -50,8	| -66,4 |       
+
+# Észrevételek
+- Vételi pont 1: Kültéri környezet, erős jel, minimális interferencia. Az IKUSI FLASHD C48 antenna adta a legjobb jelszintet.      
+- Vételi pont 2: Beltéri helyiség, közepes jelminőség. Az ISKRA P20 LOGPER antenna mutatott közepes teljesítményt, de az IKUSI antenna itt is jobb volt.       
+- Vételi pont 3: Távoli, zárt tér, gyengébb jelminőség. Az IKUSI FLASHD C48 antenna továbbra is erős jelnyereséget mutatott, míg a SMART HD 550 antenna itt gyengébb teljesítményt adott.      
