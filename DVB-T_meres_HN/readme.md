@@ -43,10 +43,10 @@
 **A CH41 -ös csatorna konstellációs diagramja**    
 <img width="851" height="477" alt="3 kep DVB-T" src="https://github.com/user-attachments/assets/dfdcdb83-bea3-4a90-a574-8f9756d77676" />
 
-**A CH41 -ös csatornán a DUNATV HD jelszint és TV adás**    
+**A CH41 -ös csatornán a Miskolci TV jelszint és TV adás**    
 [its_snapshot_0011.bmp](https://github.com/user-attachments/files/22797123/its_snapshot_0011.bmp)
 
-**A CH41 -ös csatornán a DUNATV HD műsora**   
+**A CH41 -ös csatornán a Miskolci TV műsora**   
 [its_snapshot_0012.bmp](https://github.com/user-attachments/files/22797117/its_snapshot_0012.bmp)
 
 # 4. Mérési eredmények
