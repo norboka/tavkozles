@@ -9,7 +9,7 @@
 
 # Mérési eredmények
 
-| Antenna tipusa | Vételi pont 1 - Jelszint (dBm)	| Vételi pont 2 - Jelszint (dBm) |	Vételi pont 3 - Jelszint (dBm) | kinézet |
+| Antenna tipusa | Vételi pont 1 - Jelszint (dBm)	| Vételi pont 2 - Jelszint (dBm) |	Vételi pont 3 - Jelszint (dBm) | Kinézet |
 |----------|-------------|----------|-------------|--------------------|
 | ISKRA P20	| -38,9 |	-48,9 |	-60,2 | <img width="198" height="248" alt="image" src="https://github.com/user-attachments/assets/9cf4e0f1-8111-4807-bfff-e614d2b61647" /> |
 | SMART HD 550 |	-34,8 |	-40,3 |	-58,5 | <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/d5df23e5-bdd5-4680-8097-fe5498506e10" /> |
