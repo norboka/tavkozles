@@ -24,9 +24,9 @@
 
 |  | Jel | karakterisztika | adás |
 |--------------|------------|------------|-------------|
-| ISKRA P20 |   
-| SMART HD 550 |    
-| P-2845F|    
+| ISKRA P20 | <img width="943" height="414" alt="jel" src="https://github.com/user-attachments/assets/2913254d-c699-4551-902f-3011a24b131e" /> | <img width="871" height="421" alt="karakterisztika" src="https://github.com/user-attachments/assets/d5dbd13a-8e97-4115-8587-ca6da389d2e9" /> | <img width="810" height="418" alt="adás" src="https://github.com/user-attachments/assets/2416b724-3a2d-4343-9249-2c081003e8eb" /> |
+| SMART HD 550 |  |  |  |
+| P-2845F|  |  |  | 
 
 # Következtetések
 
