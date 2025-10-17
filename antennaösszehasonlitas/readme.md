@@ -23,6 +23,7 @@
 # Ilyen jelek jöttek az 1. vételi ponton
 
 |  | Jel | karakterisztika | adás |
+|--------------|------------|------------|-------------|
 | ISKRA P20 |   
 | SMART HD 550 |    
 | P-2845F|    
