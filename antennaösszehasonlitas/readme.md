@@ -20,6 +20,8 @@
 - Vételi pont 2: Kültéri környezet, közepes jelminőség. Az ISKRA P20 LOGPER antenna mutatott közepes teljesítményt, de a P-2845F antenna itt is jobb volt.       
 - Vételi pont 3: Kültéri környezet, nagyon jó jelminőség. A P-2845F antenna továbbra is erős jelnyereséget mutatott, a legrosszabb jelszintet a SMART HD 550 antenna adta.
 
+# Ilyen jelek jöttek az 1. vételi ponton
+
 # Következtetések
 
 - A P-2845F antenna minden vételi ponton a legjobb jelszintet biztosította, köszönhetően a magas nyereségének és irányított karakterisztikájának.
