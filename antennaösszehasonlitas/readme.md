@@ -25,8 +25,8 @@
 |  | Jel | karakterisztika | adás |
 |--------------|------------|------------|-------------|
 | ISKRA P20 | <img width="943" height="414" alt="jel" src="https://github.com/user-attachments/assets/2913254d-c699-4551-902f-3011a24b131e" /> | <img width="871" height="421" alt="karakterisztika" src="https://github.com/user-attachments/assets/d5dbd13a-8e97-4115-8587-ca6da389d2e9" /> | <img width="810" height="418" alt="adás" src="https://github.com/user-attachments/assets/2416b724-3a2d-4343-9249-2c081003e8eb" /> |
-| SMART HD 550 |  |  |  |
-| P-2845F|  |  |  | 
+| SMART HD 550 | <img width="805" height="414" alt="jel" src="https://github.com/user-attachments/assets/1246e4d9-0f14-46f1-b5cf-bc23771e60bf" /> | <img width="794" height="416" alt="karkterisztika" src="https://github.com/user-attachments/assets/2b7ca75a-8a30-49a8-920e-7c66563f051c" /> | <img width="795" height="411" alt="adás" src="https://github.com/user-attachments/assets/3b98d2ed-273f-4361-8f22-f291796bb575" /> |
+| P-2845F| <img width="791" height="421" alt="jel" src="https://github.com/user-attachments/assets/91427dbc-c62f-4e25-a612-8b348b02d1c5" /> | <img width="799" height="416" alt="karakterisztika" src="https://github.com/user-attachments/assets/d2b2bcd6-19f6-49e5-aa61-2f9f605116db" /> | <img width="795" height="416" alt="adás" src="https://github.com/user-attachments/assets/fdb401ae-061c-4e40-8d25-cdf4dddd9a3d" /> | 
 
 # Következtetések
 
