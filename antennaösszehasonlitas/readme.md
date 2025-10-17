@@ -36,6 +36,14 @@
 | SMART HD 550 | <img width="1189" height="629" alt="jel" src="https://github.com/user-attachments/assets/432296ba-80d9-4f06-bef0-48d723a652c4" /> | <img width="1211" height="626" alt="karkterisztika" src="https://github.com/user-attachments/assets/60fc9e51-78b3-4705-8d42-eeafc8e1e1eb" /> | <img width="1187" height="622" alt="adás" src="https://github.com/user-attachments/assets/59cc3617-96e2-43b3-878f-f5ea6951b799" /> |
 | P-2845F| <img width="809" height="414" alt="jel" src="https://github.com/user-attachments/assets/662ce8b2-32fd-4a7f-aa46-cf4c60f0f871" /> | <img width="812" height="414" alt="karakterisztika" src="https://github.com/user-attachments/assets/f0c996c1-c47b-4ecc-8f94-bbdebb0e5e23" /> | <img width="803" height="422" alt="adás" src="https://github.com/user-attachments/assets/6c4c15ee-788a-4181-8ba7-b3ba6b35d9d3" /> |
 
+# Ilyen jelek jöttek a 3. vételi ponton
+
+|  | Spektrum | Konstellációs diagram | Adás |
+|--------------|------------|------------|-------------|
+| ISKRA P20 | <img width="810" height="427" alt="jel" src="https://github.com/user-attachments/assets/6157795d-e21d-441c-9ce1-42edc29143bd" /> | <img width="829" height="415" alt="karakterisztika" src="https://github.com/user-attachments/assets/560af7f5-4abf-4ad3-aa3a-26f8aea5da46" /> | <img width="798" height="420" alt="adás" src="https://github.com/user-attachments/assets/1d0d905c-f08b-4f54-b60b-073ad43a3c2d" /> |
+| SMART HD 550 | <img width="812" height="416" alt="jel" src="https://github.com/user-attachments/assets/80926b35-294c-4842-8534-10cc97b43edd" /> | <img width="830" height="418" alt="karakterisztika" src="https://github.com/user-attachments/assets/9f5b83fb-5550-41f3-bd3d-4a083f165d1d" /> | <img width="806" height="420" alt="adás" src="https://github.com/user-attachments/assets/ada5574b-890e-439a-a99c-0720a5b44169" /> |
+| P-2845F| <img width="795" height="413" alt="jel" src="https://github.com/user-attachments/assets/c2a6838e-9a3e-4ad0-b424-5f0229c48fc1" /> | <img width="795" height="423" alt="karakterisztika" src="https://github.com/user-attachments/assets/c80d248f-4300-4d55-b21b-bf717ab711f7" /> | <img width="791" height="420" alt="adás" src="https://github.com/user-attachments/assets/fc705e53-0a62-4bc5-8756-d8277624e4d9" /> |
+
 # Következtetések
 
 - A P-2845F antenna minden vételi ponton a legjobb jelszintet biztosította, köszönhetően a magas nyereségének és irányított karakterisztikájának.
