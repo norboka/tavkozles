@@ -50,7 +50,7 @@
 
 # Következtetések
 
-- A P-2845F antenna minden vételi ponton a legjobb jelszintet biztosította, köszönhetően a magas nyereségének és irányított karakterisztikájának.
+- A P-2845F antenna majdnem az összes vételi ponton a legjobb jelszintet biztosította, köszönhetően a magas nyereségének és irányított karakterisztikájának.
 - Az ISKRA P20 LOGPER antenna megfelelő választás lehet, ha kisebb méretű, könnyen telepíthető antennára van szükség, de valamivel alacsonyabb jelminőséget nyújtott.
 - A SMART HD 550 antenna a gyengébb vételi pontokon mutatott kevésbé kedvező eredményeket, különösen zárt térben.
 
