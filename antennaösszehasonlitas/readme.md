@@ -15,6 +15,10 @@
 | SMART HD 550 |	34,4 |	39,7 |	58,5 | <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/d5df23e5-bdd5-4680-8097-fe5498506e10" /> |
 | P-2845F |	43,1	| 48,9	| 66,2 | <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/2e9536a2-f26b-40f0-9f06-dc1977165fc3" /> |       
 
+# Mérési eredmények diaramban
+
+<img width="1037" height="606" alt="diagarm" src="https://github.com/user-attachments/assets/9336cdb2-91aa-4847-a0cf-c628d594ba85" />
+
 # Észrevételek
 - V3 labor: Beltéri helyiség, kicsi jel, viszonylag nagy interferencia. A P-2845F antenna adta a legjobb jelszintet.      
 - Parkoló: Kültéri környezet, közepes jelminőség. Itt a legjobb jelet az ISKRA P20 fogta, a P-2845F antenna csak közepes jelet fogott.      
