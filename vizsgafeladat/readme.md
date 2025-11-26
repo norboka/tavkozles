@@ -1,6 +1,6 @@
 ## Készítette: Holczer Norbert
 # Műholdas vételi rendszer telepítése, konfigurálása és mérése
-# Feladat:
+# Feladat: Egy parabolaantennával be kellett fogni a Thor 5 műhold jelét és koax kábel segítségével el kellett juttatni a jelet az iskolámban lévő Villamos 3-as terembe, majd az adást amit befogtam az antennával láthatóvá kellett tennem a tv-n.
 # Eszközök: 
 - Parabolaantenna: D80 Mesh hálós acél parabola antenna (tripodra szerelve)
 - Műholdvevő fej (LNB): Single LNB !ÁT KELL ÍRNI!
